@@ -1,0 +1,13 @@
+label1 :
+
+MOV r 0 n 2
+
+MOV l 254 l 00
+
+MOV r 0 n 1
+
+MOV l 254 l 01
+
+JMP label1
+
+END
